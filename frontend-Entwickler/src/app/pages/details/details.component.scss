@@ -1,0 +1,15 @@
+.detailsPage {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  .back {
+    display: flex;
+    align-items: center;
+    width: auto;
+    color: white;
+    font-size: 15px;
+    line-height: 28px;
+    text-transform: capitalize;
+    cursor: pointer;
+  }
+}

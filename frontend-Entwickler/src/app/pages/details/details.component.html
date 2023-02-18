@@ -1,0 +1,9 @@
+<div class="page detailsPage">
+  <div>
+    <span [routerLink]="'/'" class="back mb-1">
+      <mat-icon>keyboard_arrow_left</mat-icon>
+      <span>back</span>
+    </span>
+    <app-person-details [person]="person" *ngIf="person"></app-person-details>
+  </div>
+</div>

@@ -1,0 +1,28 @@
+table {
+  width: 100%;
+}
+
+.mat-mdc-form-field {
+  font-size: 14px;
+  width: 100%;
+}
+
+td,
+th {
+  width: 25%;
+}
+
+td {
+  padding-top: 10px !important;
+  padding-bottom: 10px !important;
+}
+
+.actions {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  button {
+    width: 40px !important;
+    height: 40px !important;
+  }
+}
