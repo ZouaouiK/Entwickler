@@ -1,4 +1,4 @@
-# FrontendEntwickler1
+# FrontendEntwickler
 1. Install dependencies
 
  ```
