@@ -4,8 +4,12 @@
 
 1. Install dependencies
 
-``npm install``
+```
+npm install
+```
 
 2. Run project
 
-``npm start``
+```
+npm start
+```
